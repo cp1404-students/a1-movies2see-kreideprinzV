@@ -2,7 +2,7 @@
 
 Assignment 1 for CP1404/CP5632, IT@JCU
 
-By: _Your Name_
+By: Hein Htet Aung
 
 This repo contains starter files:  
 
@@ -17,8 +17,9 @@ the `answer...` parts).
 
 1. How long did the entire project (assignment 1) take you?
 
-    answer...
+   The Program process alone took me 2 day to finish, planning draft, completing basic functions on day one and debugging 
+and smoothen up the final program of the assignment one. 
 
 2. What do you plan to do differently in your development process for assignment 2?
 
-    answer...
+   Give more time planning and designing to make the program as efficient as possible. 
